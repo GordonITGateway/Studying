@@ -23,6 +23,3 @@ I didn’t personally use it, but I have heard great things about Boson for labs
 https://www.netacad.com/cisco-packet-tracer
 
 https://gns3.com/
-
-### Notes:
-When I took the test, the following topics came up repeatedly: STP (spanning tree), OSPF (routing protocol),  and automation concepts (SOAR). Your mileage may vary since every question bank is different. It took me around 5 months to study for it, but I was rather new to IT/networking. Depending on experience and how hard you study, I believe 2-6 months is realistic. GOOD LUCK!
