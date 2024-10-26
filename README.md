@@ -2,6 +2,9 @@
 ### This is a space where I'll list the study materials I used on certifications. 
 ### The best overall advice I have is to do some framing before each exam. For example, CySA+ will ask you to think like a cybersecurity analyst. Something like CISSP will ask you to think like an ISSM or similar manager, so the approach for each question will be completely different. Consider who a certification is for, and respond to questions from that job title's point of view.
 ## CySA+
+
+### <a href= "https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx"> Videos </a>
+CertifyBreakfast's CySA+ series is incredibly valuable, and not just for achieving the certification. He covers all exam topics and goes extra in-depth on some of them, allowing you to get a deeper understanding. I recommend taking notes as you watch; I scanned the 100 pages or so of notes that I took and linked them here for reference:
 [Gordon_Notes_CySA+.pdf](https://github.com/user-attachments/files/17528745/Gordon_Notes_CySA%2B_compressed.pdf)
 
 ## CCNA
