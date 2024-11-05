@@ -9,12 +9,12 @@ The Anki deck system of periodic review is invaluable for locking in acronyms an
 ## CISSP
 
 ### YouTube Videos:
-| <a href= "https://www.youtube.com/watch?v=1S0aBV-Waeo"> Buffer Overflow </a> | <a href= "https://www.youtube.com/watch?v=DMtFhACPnTY&list=PL0LZxT9Dgnxfu1ILW0XnLnq3mb0L5mUPr&index=2"> SHA </a> | <a href= "https://www.youtube.com/watch?v=jkV1KEJGKRA"> E2EE </a> | <a href= "https://www.youtube.com/watch?v=O4xNJsjtN6E"> AES </a> |
+| <a href= "https://www.youtube.com/watch?v=1S0aBV-Waeo"> Buffer Overflow </a> | <a href= "https://www.youtube.com/watch?v=DMtFhACPnTY&list=PL0LZxT9Dgnxfu1ILW0XnLnq3mb0L5mUPr&index=2"> SHA </a> | <a href= "https://www.youtube.com/watch?v=jkV1KEJGKRA"> E2EE </a> | <a href= "https://www.youtube.com/watch?v=MqnpIwN7dz0"> Race Conditions </a> |
 |:------|:------|:------|:------|
 | **<a href= "https://www.youtube.com/watch?v=wlSG3pEiQdc"> Stream Ciphers (HMAC)</a>** | **<a href= "https://www.youtube.com/watch?v=NmM9HA2MQGI"> Key Exchange (DH) </a>** | **<a href= "https://www.youtube.com/watch?v=85oMrKd8afY"> More Diffie Hellman </a>** | **<a href= "https://www.youtube.com/watch?v=Yjrfm_oRO0w"> Diffie Hellman Math </a>** |
 | **<a href= "https://www.youtube.com/watch?v=NF1pwjL9-DE&list=PL0LZxT9Dgnxfu1ILW0XnLnq3mb0L5mUPr&index=7"> Elliptic Curves </a>** | **<a href= "https://www.youtube.com/watch?v=s22eJ1eVLTU"> Digital Signatures </a>** | **<a href= "https://www.youtube.com/watch?v=uOfonONtIuk"> DNS </a>** | **<a href= "https://www.youtube.com/watch?v=7MT1F0O3_Yw"> DNS Cache Poisoning </a>** |
 | **<a href= "https://www.youtube.com/watch?v=qW361k3-BtU"> Kerberos </a>** | **<a href= "https://www.youtube.com/watch?v=0TLDTodL7Lc"> TLS </a>** | **<a href= "https://www.youtube.com/watch?v=86cQJ0MMses"> TLS Handshake </a>** | **<a href= "https://www.youtube.com/watch?v=7U-RbOKanYs"> Password Cracking </a>** |
-| **<a href= ""> </a>** | **<a href= ""> </a>** | **<a href= ""> </a>** | **<a href= ""> </a>** |
+| **<a href= "https://www.youtube.com/watch?v=O4xNJsjtN6E"> AES </a>** | **<a href= "https://www.youtube.com/watch?v=C4ATDMIz5wc"> More AES </a>** | **<a href= ""> </a>** | **<a href= ""> </a>** |
 
 ## CySA+
 ### <a href= "https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx"> Videos </a>
