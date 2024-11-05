@@ -8,8 +8,7 @@ The Anki deck system of periodic review is invaluable for locking in acronyms an
 
 ## CISSP
 
-### YouTube Videos
-
+### YouTube Videos:
 | <a href= "https://www.youtube.com/watch?v=1S0aBV-Waeo"> Buffer Overflow </a> | <a href= "https://www.youtube.com/watch?v=DMtFhACPnTY&list=PL0LZxT9Dgnxfu1ILW0XnLnq3mb0L5mUPr&index=2"> SHA </a> | <a href= "https://www.youtube.com/watch?v=jkV1KEJGKRA"> E2EE </a> | <a href= "https://www.youtube.com/watch?v=O4xNJsjtN6E"> AES </a> |
 |:------|:------|:------|:------|
 | **<a href= "https://www.youtube.com/watch?v=wlSG3pEiQdc"> Stream Ciphers (HMAC)</a>** | **<a href= "https://www.youtube.com/watch?v=NmM9HA2MQGI"> Key Exchange (DH) </a>** | **<a href= "https://www.youtube.com/watch?v=85oMrKd8afY"> More Diffie Hellman </a>** | **<a href= "https://www.youtube.com/watch?v=Yjrfm_oRO0w"> Diffie Hellman Math </a>** |
