@@ -1,11 +1,32 @@
 # Studying
 ### This is a space where I'll list the study materials I used on certifications. 
 ### The best overall advice I have is to do some framing before each exam. For example, CySA+ will ask you to think like a cybersecurity analyst. Something like CISSP will ask you to think like an ISSM or similar manager, so the approach for each question will be completely different. Consider who a certification is for, and respond to questions from that job title's point of view.
-## CySA+
 
+## General
+### <a href= https://apps.ankiweb.net/> Memorization </a>
+The Anki deck system of periodic review is invaluable for locking in acronyms and concepts that require memorization. It is originally intended for learning languages, but you can find decks online for a wide variety of tech certifications.
+
+## CISSP
+
+### YouTube Videos
+
+| <a href= "https://www.youtube.com/watch?v=1S0aBV-Waeo"> Buffer Overflow </a> | <a href= "https://www.youtube.com/watch?v=DMtFhACPnTY&list=PL0LZxT9Dgnxfu1ILW0XnLnq3mb0L5mUPr&index=2"> SHA </a> | <a href= "https://www.youtube.com/watch?v=jkV1KEJGKRA"> E2EE </a> | <a href= "https://www.youtube.com/watch?v=O4xNJsjtN6E"> AES </a> |
+|:------|:------|:------|:------|
+| **<a href= "https://www.youtube.com/watch?v=wlSG3pEiQdc"> Stream Ciphers (HMAC)</a>** | **<a href= "https://www.youtube.com/watch?v=NmM9HA2MQGI"> Key Exchange (DH) </a>** | **<a href= "https://www.youtube.com/watch?v=85oMrKd8afY"> More Diffie Hellman </a>** | **<a href= "https://www.youtube.com/watch?v=Yjrfm_oRO0w"> Diffie Hellman Math </a>** |
+| **<a href= "https://www.youtube.com/watch?v=NF1pwjL9-DE&list=PL0LZxT9Dgnxfu1ILW0XnLnq3mb0L5mUPr&index=7"> Elliptic Curves </a>** | **<a href= "https://www.youtube.com/watch?v=s22eJ1eVLTU"> Digital Signatures </a>** | **<a href= "https://www.youtube.com/watch?v=uOfonONtIuk"> DNS </a>** | **<a href= "https://www.youtube.com/watch?v=7MT1F0O3_Yw"> DNS Cache Poisoning </a>** |
+| **<a href= "https://www.youtube.com/watch?v=qW361k3-BtU"> Kerberos </a>** | **<a href= "https://www.youtube.com/watch?v=0TLDTodL7Lc"> TLS </a>** | **<a href= "https://www.youtube.com/watch?v=86cQJ0MMses"> TLS Handshake </a>** | **<a href= "https://www.youtube.com/watch?v=7U-RbOKanYs"> Password Cracking </a>** |
+| **<a href= ""> </a>** | **<a href= ""> </a>** | **<a href= ""> </a>** | **<a href= ""> </a>** |
+
+## CySA+
 ### <a href= "https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx"> Videos </a>
 CertifyBreakfast's CySA+ series is incredibly valuable, and not just for achieving the certification. He covers all exam topics and goes extra in-depth on some of them, allowing you to get a deeper understanding. I recommend taking notes as you watch; I scanned the 100 pages or so of notes that I took and linked them here for reference:
 [Gordon_Notes_CySA+.pdf](https://github.com/user-attachments/files/17528745/Gordon_Notes_CySA%2B_compressed.pdf)
+
+### <a href= https://www.amazon.com/CompTIA-CySA-Study-Guide-CS0-003/dp/1394182902> Books </a>
+Mike Chapple's official Sybex books are a solid resource and the included labs are also great. I didn't read the entire thing, as I felt the video series above covered the concepts adequately, but the labs were good to reinforce more technical portions of the exam.
+
+### <a href= https://lognpacific.com/free-certification-practice-tests/free-comptia-cysa-practice-tests/> Practice Questions </a>
+Josh Makador has compiled a great set of test questions that match the domains of the Sybex books. They can be used on this website or downloaded offline as an Anki deck if you enter your email. 
 
 ## CCNA
 ### <a href= https://www.certskills.com/> Labs </a>
