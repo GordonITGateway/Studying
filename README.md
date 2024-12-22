@@ -8,7 +8,15 @@ The Anki deck system of periodic review is invaluable for locking in acronyms an
 
 ## CISSP
 
-### YouTube Videos:
+### <a href= "https://www.udemy.com/user/thorpedersen/"> Videos </a>
+Thor Pedersen's video courses on Udemy cover all domains and include quizzes/tests as you go to solidify the material.
+
+### <a href= "https://www.linkedin.com/learning/isc2-certified-information-systems-security-professional-cissp-2024-cert-prep"> More Videos </a>
+Mike Chapple's videos on LinkedIn Learning are a good overview and he explains complex topics such as security models in a simple-to-understand way. They pair well with his books below.
+
+### <a href= "https://www.amazon.com/Certified-Information-Security-Professional-Official-ebook/dp/B0D57LP9BT?crid=2FDWIF10K4FAF&dib=eyJ2IjoiMSJ9.HhM9gXw0LgbQJqDFVBq9tA6Zrpek1gtwca92zWe6J96jhGmwUnMipx6d5h5y_jB_2NDn7joA2FqUnC36wtIJbHL1oAaRsE4ws3-_dZXLS9m_i3_lgObt_pcr-H8YwIlnuRMZdkte4bK8BXSuF6cQRYOwXmhfRgGLcc64Rh8LYM_ZmNKbnuFIHnHaLv6QgfM5slfycY-XugbXh1LJwIb7aPUrprXIQeZvJGsDpmi13YM.T2t7drmz_q-W87REp_vYn8mqHJn55gUrl0cP_EEy8LM&dib_tag=se&keywords=isc2+cissp&qid=1734881659&s=digital-text&sprefix=isc2+cissp%2Cdigital-text%2C292&sr=1-1"> Books </a>
+
+### YouTube Videos (mostly domain 3):
 | <a href= "https://www.youtube.com/watch?v=1S0aBV-Waeo"> Buffer Overflow </a> | <a href= "https://www.youtube.com/watch?v=DMtFhACPnTY&list=PL0LZxT9Dgnxfu1ILW0XnLnq3mb0L5mUPr&index=2"> SHA </a> | <a href= "https://www.youtube.com/watch?v=jkV1KEJGKRA"> E2EE </a> | <a href= "https://www.youtube.com/watch?v=MqnpIwN7dz0"> Race Conditions </a> |
 |:------|:------|:------|:------|
 | **<a href= "https://www.youtube.com/watch?v=wlSG3pEiQdc"> Stream Ciphers (HMAC)</a>** | **<a href= "https://www.youtube.com/watch?v=NmM9HA2MQGI"> Key Exchange (DH) </a>** | **<a href= "https://www.youtube.com/watch?v=85oMrKd8afY"> More Diffie Hellman </a>** | **<a href= "https://www.youtube.com/watch?v=Yjrfm_oRO0w"> Diffie Hellman Math </a>** |
@@ -19,11 +27,11 @@ The Anki deck system of periodic review is invaluable for locking in acronyms an
 
 ## CySA+
 ### <a href= "https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx"> Videos </a>
-CertifyBreakfast's CySA+ series is incredibly valuable, and not just for achieving the certification. He covers all exam topics and goes extra in-depth on some of them, allowing you to get a deeper understanding. I recommend taking notes as you watch; I scanned the 100 pages or so of notes that I took and linked them here for reference:
+CertifyBreakfast's CySA+ series is excellent, and not just for achieving the certification. He covers all exam topics and goes extra in-depth on some of them, allowing you to get a deeper understanding. I recommend taking notes as you watch; I scanned the 100 pages or so of notes that I took and linked them here for reference:
 [Gordon_Notes_CySA+.pdf](https://github.com/user-attachments/files/17528745/Gordon_Notes_CySA%2B_compressed.pdf)
 
 ### <a href= https://www.amazon.com/CompTIA-CySA-Study-Guide-CS0-003/dp/1394182902> Books </a>
-Mike Chapple's official Sybex books are a solid resource and the included labs are also great. I didn't read the entire thing, as I felt the video series above covered the concepts adequately, but the labs were good to reinforce more technical portions of the exam.
+Mike Chapple's official Sybex books are a solid resource, and the included labs are also great. I didn't read the entire thing, as I felt the video series above adequately covered the concepts, but the labs were good for reinforcing more technical portions of the exam.
 
 ### <a href= https://lognpacific.com/free-certification-practice-tests/free-comptia-cysa-practice-tests/> Practice Questions </a>
 Josh Makador has compiled a great set of test questions that match the domains of the Sybex books. They can be used on this website or downloaded offline as an Anki deck if you enter your email. 
