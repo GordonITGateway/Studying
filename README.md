@@ -15,6 +15,7 @@ Thor Pedersen's video courses on Udemy cover all domains and include quizzes/tes
 Mike Chapple's videos on LinkedIn Learning are a good overview and he explains complex topics such as security models in a simple-to-understand way. They pair well with his books below.
 
 ### <a href= "https://www.amazon.com/Certified-Information-Security-Professional-Official-ebook/dp/B0D57LP9BT?crid=2FDWIF10K4FAF&dib=eyJ2IjoiMSJ9.HhM9gXw0LgbQJqDFVBq9tA6Zrpek1gtwca92zWe6J96jhGmwUnMipx6d5h5y_jB_2NDn7joA2FqUnC36wtIJbHL1oAaRsE4ws3-_dZXLS9m_i3_lgObt_pcr-H8YwIlnuRMZdkte4bK8BXSuF6cQRYOwXmhfRgGLcc64Rh8LYM_ZmNKbnuFIHnHaLv6QgfM5slfycY-XugbXh1LJwIb7aPUrprXIQeZvJGsDpmi13YM.T2t7drmz_q-W87REp_vYn8mqHJn55gUrl0cP_EEy8LM&dib_tag=se&keywords=isc2+cissp&qid=1734881659&s=digital-text&sprefix=isc2+cissp%2Cdigital-text%2C292&sr=1-1"> Books </a>
+The official ISC2 Sybex books were my main resource for CISSP. By giving myself a page goal per day I managed to read through it twice, highlighting important passages first and then reading those for the second time. Some domains, such as 3 and 4, will require additional attention and Googling because of the complexity of the topics.
 
 ### YouTube Videos (mostly domain 3):
 | <a href= "https://www.youtube.com/watch?v=1S0aBV-Waeo"> Buffer Overflow </a> | <a href= "https://www.youtube.com/watch?v=DMtFhACPnTY&list=PL0LZxT9Dgnxfu1ILW0XnLnq3mb0L5mUPr&index=2"> SHA </a> | <a href= "https://www.youtube.com/watch?v=jkV1KEJGKRA"> E2EE </a> | <a href= "https://www.youtube.com/watch?v=MqnpIwN7dz0"> Race Conditions </a> |
@@ -24,6 +25,9 @@ Mike Chapple's videos on LinkedIn Learning are a good overview and he explains c
 | **<a href= "https://www.youtube.com/watch?v=qW361k3-BtU"> Kerberos </a>** | **<a href= "https://www.youtube.com/watch?v=0TLDTodL7Lc"> TLS </a>** | **<a href= "https://www.youtube.com/watch?v=86cQJ0MMses"> TLS Handshake </a>** | **<a href= "https://www.youtube.com/watch?v=7U-RbOKanYs"> Password Cracking </a>** |
 | **<a href= "https://www.youtube.com/watch?v=O4xNJsjtN6E"> AES </a>** | **<a href= "https://www.youtube.com/watch?v=C4ATDMIz5wc"> More AES </a>** | **<a href= "https://www.youtube.com/watch?v=GazC3A4OQTE"> OSPF (Djikstra's) </a>** | **<a href= "https://www.youtube.com/watch?v=EFg3u_E6eHU"> More Djikstra's </a>** |
 | **<a href= "https://www.youtube.com/watch?v=Nh2hXUuKXyQ"> SDN </a>** | **<a href= "https://www.youtube.com/watch?v=01ajHxPLxAw&list=PLA9WbCkSbKM4nPaw0O92-VKcry3yYIuA7&index=2"> NAT </a>** | **<a href= "https://www.youtube.com/watch?v=FTUV0t6JaDA"> More NAT </a>** | **<a href= "https://www.youtube.com/watch?v=bBC-nXj3Ng4"> Blockchain (Bitcoin) </a>** |
+
+### <a href= "https://www.youtube.com/playlist?list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu"> MindMaps </a>
+For the final review in the last 2 weeks or so, I used Destination Certification's CISSP MindMap series. It breaks each domain into a set of videos, noting key concepts and acronyms that are relevant to that domain.
 
 ## CySA+
 ### <a href= "https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx"> Videos </a>
