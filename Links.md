@@ -28,6 +28,10 @@ https://tools.netsa.cert.org/silk/
 
 https://community.cisco.com/t5/networking-knowledge-base/understanding-span-rspan-and-erspan/ta-p/3144951
 
+https://www.youtube.com/watch?v=SnnNrXtIc1c
+
+https://www.youtube.com/watch?v=68Raa0FWNkg
+
 ### Cybersecurity
 https://attack.mitre.org/
 
