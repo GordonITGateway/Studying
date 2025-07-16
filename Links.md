@@ -1,5 +1,7 @@
 ## Useful links
 ### Learning
+https://notes.networklessons.com/
+
 https://academy.hackthebox.com/login
 
 https://blueteamlabs.online/login
